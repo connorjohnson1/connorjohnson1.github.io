@@ -10,6 +10,6 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 TVIP interneurons in the ACC demonstrate selective responses to certain stimuli withijn trials, however these representations are not stable across hours or days.
 
-[Download paper here]([http://academicpages.github.io/files/Johnson_et_al-2022-Molecular_Psychiatry.pdf]
+[Download paper here](http://academicpages.github.io/files/Johnson_et_al-2022-Molecular_Psychiatry.pdf)
 
-Recommended citation: Johnson, Connor, Lisa N Kretsge, William W Yen, et al. 2022. Highly unstable heterogeneous representations in VIP interneurons of the anterior cingulate cortex. _Molecular Psychiatry_ 27: 2602–2618. https://doi.org/10.1038/s41380-022-01485-y.
+Recommended citation: Johnson C, Kretsge LN, Yen W et al. Highly unstable heterogeneous representations in VIP interneurons of the anterior cingulate cortex. Molecular Psychiatry 27, 2602–2618 (2022).
