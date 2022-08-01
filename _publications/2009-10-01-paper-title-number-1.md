@@ -12,6 +12,6 @@ A hallmark of the anterior cingulate cortex (ACC) is its functional heterogeneit
 
 [Download paper here](http://connorjohnson1.github.io/files/Johnson_et_al-2022-Molecular_Psychiatry.pdf)
 
-connorjohnson1.github.io/files/vip_fig1.png
+<br/><img src='/files/vip_fig1.png'>
 
 Recommended citation: Johnson C, Kretsge LN, Yen W et al. Highly unstable heterogeneous representations in VIP interneurons of the anterior cingulate cortex. Molecular Psychiatry 27, 2602–2618 (2022).
